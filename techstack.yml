@@ -1,0 +1,18 @@
+repo_name: jimbrig/espanso-template
+report_id: bb9d8addfe4711a2100eeab7755fcc19
+repo_type: Public
+timestamp: '2023-12-07T20:29:51+00:00'
+requested_by: federico-terzi
+provider: github
+branch: main
+detected_tools_count: 1
+tools:
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source: Repo Metadata
